@@ -80,4 +80,4 @@ Test the connection by attempting to ssh into albany or atlanta!
 If you are able to login password free, you have been successful!
 You can also try transferring a file!
 
-`scp ~/.ssh/id_example albany:~/.ssh/`
+`scp ~/.ssh/id_example example:~/.ssh/`
