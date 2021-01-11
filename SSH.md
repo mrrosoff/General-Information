@@ -52,7 +52,7 @@ If you did this correctly, your setup on your computer is complete!
 First, copy your public key from the file by printing it out and storing it in a new tab or file on your desktop. 
 cat stands for concatenate, which in this case allows us to simply print out what is in the file.
 
-`cat id_csdept.pub`
+`cat id_example.pub`
 
 Next, ssh into the server. Replace user with your username!
 
@@ -73,7 +73,7 @@ Now that you have done this, you are ready to go! Type exit to return to your co
 
 Testing and Further Configuration
 
-Test the connection by attempting to ssh into albany or atlanta!
+Test the connection!
 
 `ssh example`
 
